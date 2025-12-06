@@ -22,11 +22,11 @@ No backend or API is used — everything is designed manually using CSS styling 
 
 ---
 
-## 🎥 Demo (Optional – update after GitHub Pages)
+## 🎥 Demo 
 
 After deploying to GitHub Pages, replace the link below with your live project:
 
-🔗 **Live Demo:** *https://your-username.github.io/netflix-clone/*
+🔗 **Live Demo:** https://cloan12.netlify.app
 
 ---
 

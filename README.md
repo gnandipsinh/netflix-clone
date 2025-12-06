@@ -63,7 +63,7 @@ netflix-clone/
 
 1️⃣ Download or Clone the repository
 
-git clone https://github.com/gnandipsinh/netflix-clone
+git clone https://cloan12.netlify.app
 
 
 2️⃣ Open the folder
